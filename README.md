@@ -1,2 +1,2 @@
-# petsrevenge.github.io
-Client for Pet's Revenge Server
+# talismanskingdom.github.io
+Client for Talisman's Kingdom Server
